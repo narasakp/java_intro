@@ -10,7 +10,7 @@ public class Operator {
         System.out.println(num2/num1);
 
         String msg = "hello";
-        System.out.println(num1+msg);
+        //System.out.println(num1+msg);
 
         if (num1 > num2) {
             System.out.println("num1 > num2");
